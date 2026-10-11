@@ -1,3 +1,4 @@
+
 # Tejas Mhaske – React + Web3 portfolio
 
 Vite + React portfolio with a browser-wallet panel (connect, balance and network, sign a hello message, optional ETH tip). No extra web3 library: it talks to `window.ethereum` (MetaMask and compatible wallets).
@@ -12,3 +13,6 @@ Build: `npm run build` (output in `dist/`), deploy to Vercel, Netlify or GitHub 
 
 ## Edit content
 Everything lives in `src/data.js` (experience, projects, skills, education). Update the repo list there as you add projects.
+=======
+# tejas-portfolio
+
