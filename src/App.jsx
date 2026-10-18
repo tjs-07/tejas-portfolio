@@ -61,7 +61,7 @@ function WalletCard() {
 const SCRIPT = [
   "$ whoami", "React full stack developer, Pune", "",
   "$ cat stack.txt", "Next.js  React  Node.js  MongoDB  MySQL  n8n", "",
-  "$ ls projects/", "FileDock  Zoomix  WanderLust  ...",
+  "$ ls projects/", "ClinicAppointment  Zoomix  FileDock  ...",
 ].join("\n");
 
 function Terminal() {

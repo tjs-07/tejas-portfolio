@@ -54,6 +54,13 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Clinic Appointment System",
+    subtitle: "Full-stack clinic booking platform",
+    text: "Clinic booking platform with online and in-clinic appointments, slot locking to prevent double booking, Razorpay consultation payments and automatic Google Calendar and Google Meet scheduling. Includes a secure JWT admin portal for appointments, patients, payments, revenue and doctor availability.",
+    tech: ["Next.js", "React.js", "TypeScript", "MongoDB Atlas", "REST APIs", "JWT", "Razorpay", "Google Calendar API"],
+    url: "https://clinic-appointment-system-phi.vercel.app/",
+  },
+  {
     name: "FileDock",
     subtitle: "File Management System",
     text: "Secure admin panel with role-based access control, file upload and download management, search and filtering, and real-time status monitoring through a centralized dashboard.",
